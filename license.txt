@@ -1,0 +1,29 @@
+    ____                 __           ___    ____
+   /  _/___ _   ______  / /_____     /   |  /  _/
+   / // __ \ | / / __ \/ //_/ _ \   / /| |  / /  
+ _/ // / / / |/ / /_/ / ,< /  __/  / ___ |_/ /   
+/___/_/ /_/|___/\____/_/|_|\___/  /_/  |_/___/
+
+Invoke AI
+
+Invoke AI — invokeai, invokeai setup, sd gui.
+
+
+About
+- invokeai, invokeai setup, sd gui.
+- Full build: invoke ai tutorial, invoke ai download, invokeai setup, sd gui, invoke ai vs comfyui.
+- Platform: Windows macOS Linux
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/Download-06-01-11
+
+**************************************************
+
+
+TAGS
+invokeai, invoke-ai, stable-diffusion, ai-image, local-ai, image-generation
